@@ -1,5 +1,7 @@
 # 🏛️ Business Landing Template
 
+> **Note:** This repository contains documentation and architecture specifications only — no source code is included.
+
 [![Production Site](https://img.shields.io/badge/Production-Live-success)](https://locationbatiprofit.com/fr/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
